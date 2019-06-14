@@ -11,6 +11,11 @@ def load_text(path:str) -> str:
     with open(path) as f:
         return f.read()
 
+
+
+
+
+
 if __name__ == "__main__":
 
     # TODO move to notebook
